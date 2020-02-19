@@ -1,0 +1,14 @@
+update-rc.d: using dependency based boot sequencing
+insserv: warning: script 'K01hcvmcomp' missing LSB tags and overrides
+insserv: warning: script 'K01hcnix' missing LSB tags and overrides
+insserv: warning: script 'hcvmcomp' missing LSB tags and overrides
+insserv: script vmware-autostart: service VMware already provided!
+insserv: script vmware-core: service VMware already provided!
+insserv: warning: script 'hcnix' missing LSB tags and overrides
+insserv: script vmware: service VMware already provided!
+update-rc.d: using dependency based boot sequencing
+insserv: warning: script 'K01hcnix' missing LSB tags and overrides
+insserv: script vmware-autostart: service VMware already provided!
+insserv: script vmware-core: service VMware already provided!
+insserv: warning: script 'hcnix' missing LSB tags and overrides
+insserv: script vmware: service VMware already provided!
